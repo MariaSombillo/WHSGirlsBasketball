@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Fundraising
+One of the sports in Whitney High School is basketball and in order to support the group, two Fridays in October and one in November will be assigned for their fundraisers. These fundraisers will use every single penny collected to buy good gear for both Varsity and Junior Varsity Basketball. So tell your families and friends to help contribute to the success of Girls Basketball. We thank you in advance!
 
-You can use the [editor on GitHub](https://github.com/MariaSombillo/WHSGirlsBasketballFundraiser/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Information about the Fundraisers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### First Fundraiser: Loaded Café
+#### Date/Time: October 9, 2020 at 12 PM to 4 PM
+##### Address: 15700 Bellflower Blvd, Bellflower, CA 90706
+If you like to have some light breakfast like waffles and pancakes, join us as Loaded Café. It is necessary to state the group's name which is "Whitney High School Girls Basketball" so that a portion of the profits will be given to the basketball team. Any number of guests is acceptable. Make sure to follow all safety precautions and wear a mask. Click [here](https://loadedcafe.com) for more information about Loaded Café.
 
-### Markdown
+![Image](https://s3-media0.fl.yelpcdn.com/bphoto/adERp0VE4vw7L8Ex-OjlzQ/l.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Second Fundraiser: MOD Pizza
+#### Date/Time: October 16, 2020 at 1 PM to 10 PM
+##### Address: 8896 Apollo Way, Downey, CA 90402
+In addition, if you are craving for cheesy pizza, join us at MOD Pizza. It is necessary to state the group's name which is "Whitney High School Girls Basketball" so that a portion of the profits will be given to the basketball team. Any number of guests is acceptable. Make sure to follow all safety precautions and wear a mask. Click [here](https://modpizza.com) for more information about MOD Pizza.
 
-- Bulleted
-- List
+![Image](https://www.chewboom.com/wp-content/uploads/2020/01/Mod-Pizza-Introduces-New-Limited-Time-Lucia-Pizza.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariaSombillo/WHSGirlsBasketballFundraiser/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Third Fundraiser: Whitney High School
+#### Date/Time: November 6, 2020 during office hours
+##### Address: 16800 Shoemaker Ave, Cerritos, CA 90703
+Please write a check of at least $65 and address it to Whitney High School Girls Basketball Program. Visit the school on the mentioned date to drop off your check on the curbside pick-up. Make sure to follow all safety precautions and wear a mask.
